@@ -41,7 +41,7 @@ contract MyToken {
             totalSupply -= _value;
             balances[_address] -= _value;
         }
-        
-    }
+        
+    }
 
 }
